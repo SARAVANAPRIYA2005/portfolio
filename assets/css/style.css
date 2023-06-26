@@ -111,9 +111,8 @@
 
 }
 body {
-  background-image: url(".\assets\images\pastel.jpg");
+  background-image: url("../images/pastel.jpg");
   background-size: cover;
-  background-color: rgb(211, 181, 185); /* Adjust as per your needs */
 }
 
 
